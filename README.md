@@ -12,4 +12,4 @@
 - Flexbox
 - vite 
 
--live demo [click here]() 
+-live demo [click here](https://product-preview-card-sooty-seven.vercel.app/) 
